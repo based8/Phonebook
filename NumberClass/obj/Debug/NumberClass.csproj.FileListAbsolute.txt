@@ -1,0 +1,10 @@
+C:\Users\maneki\source\repos\NumberClass\NumberClass\bin\Debug\NumberClass.exe.config
+C:\Users\maneki\source\repos\NumberClass\NumberClass\bin\Debug\NumberClass.exe
+C:\Users\maneki\source\repos\NumberClass\NumberClass\bin\Debug\NumberClass.pdb
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.csproj.AssemblyReference.cache
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.Form1.resources
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.Properties.Resources.resources
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.csproj.GenerateResource.cache
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.csproj.CoreCompileInputs.cache
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.exe
+C:\Users\maneki\source\repos\NumberClass\NumberClass\obj\Debug\NumberClass.pdb
